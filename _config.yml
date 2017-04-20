@@ -1,1 +1,16 @@
+#Basic
+title: 洄梦游仙
+subtitle: 
+description: 记录学习中的点点滴滴
 baseurl: /blogs
+
+# Comment
+comment:
+    provider: duoshuo
+    duoshuo:
+        short_name: 洄梦游仙
+
+# Social
+weixing: lyd-09124
+github: liudonghust
+mail: 1531364016@qq.com
